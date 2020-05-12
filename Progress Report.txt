@@ -1,0 +1,29 @@
+29 APRIL 2020:
+>> Menyesuaikan kembali program terhadap jenis-jenis kk berikut
+    1. KK tanpa pembatas baris ex: kk>> 2.jpeg
+    2. KK Dengan 1 pembatas ex: kk>> 29.jpg
+
+    Cara Kerja System:
+        > Mendeteksi Area KK
+        > Mendeteksi Tabel
+        > Mencari Koordinat data yang akan dibaca perbaris
+        > Mengkonversi image dari koordinat data yang ditemukan menjadi text
+        > Menyimpan semua data dalam array selanjutnya dapat di export ke file excel/txt
+
+    Persentase tugas terselesaikan>> <50%
+        task in progress: Membajaca koordinat data yang akan dibaca oleh Tesserac OCR
+
+08 MEI 2020:
+>> PROGRESS:
+    > Mendeteksi Area KK (Selesai)
+    > Mendeteksi Tabel (Selesai)
+    > Mencari Koordinat data yang akan dibaca perbaris (Selesai)
+    > Mengkonversi image dari koordinat data yang ditemukan menjadi text (70%)
+    > Menyimpan semua data dalam array selanjutnya dapat di export ke file excel/txt (Selesai)
+
+    Persentase tugas terselesaikan>> >75%
+        task in progress: 
+            1. Memperbaiki hasil Pembacaan Tesserac OCR
+            2. Menguji system ke berbagai kondisi citra kartu keluarga
+        
+
